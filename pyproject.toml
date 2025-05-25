@@ -1,0 +1,12 @@
+[project]
+name = "papers-api"
+version = "0.1.0"
+description = "Papers API Server"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.11",
+]

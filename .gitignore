@@ -3,3 +3,9 @@
 
 # Python
 *.pyc
+
+# IDEs and Editors
+.vscode
+.idea
+.cursorrules
+.cursor
